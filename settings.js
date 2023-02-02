@@ -39,18 +39,18 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    success: 'ها أنت ذا!',
+    admin: 'يمكن استخدام هذه الميزة من قبل المسؤولين فقط!',
+    botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
+    premime: 'ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار',
+    owner: 'يمكن استخدام هذه الميزة من قبل المالك فقط',
+    group: 'الميزات المستخدمة فقط للمجموعات!',
+    private: 'الميزات المستخدمة فقط للدردشة الخاصة!',
+    bot: 'يمكن استخدام هذه الميزة بواسطة الروبوت فقط',
+    wait: 'تحت المعالجة...',
+    linkm: 'أين الرابط؟',
+    endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
+    nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
 }
 
 //media target
